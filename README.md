@@ -1,5 +1,5 @@
 # Remed Prak PAB
-Project Remed untuk Praktikum PAB
+1462300094 Muhammad Edhu Maulana
 
 # TOPIK & TEMA PROJECT 
 Tema Utama: SpaceNews Core - Advanced International News Portal 
