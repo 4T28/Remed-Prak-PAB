@@ -69,3 +69,5 @@ SharedPreferences (Local Storage)
   • Tombol “Log Out” 
     Menghapus status session login, melakukan sign-out dari Firebase, dan 
     membersihkan seluruh tumpukan halaman  untuk kembali ke Halaman Daftar
+
+# Hasil bisa dicek pada Folder dokumentasi
